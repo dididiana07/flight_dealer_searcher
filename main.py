@@ -1,7 +1,6 @@
 import os
 import datetime
 import smtplib
-
 import requests
 
 YAHOO_EMAIL = os.environ["YAHOO_EMAIL"]
